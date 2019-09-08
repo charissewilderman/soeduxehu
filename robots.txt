@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baekeoshi.paramhansyogashram.com/sitemap.xml
